@@ -1,5 +1,4 @@
 import { StyleSheet } from "react-native";
-import { Footer } from "./Index";
 
 export const styles = StyleSheet.create({
 footer: {
